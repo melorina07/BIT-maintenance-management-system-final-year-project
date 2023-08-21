@@ -1,0 +1,22 @@
+{
+    "welcome":"Welcome to Bahirdar University Maintenance Request System",
+    "login":"Login to your account",
+    "username":"Username",
+    "password":"Password",
+    "new_password":"New Password",
+    "change_your_password": "Change Your Password",
+    "remember":"Remember me",
+    "change": "Change",
+    "forgot":"Forgot Password ?",
+    "log":"Login",
+    "noaccount":"Don't have an account?",
+    "register":"Register",
+    "first":"First Name",
+    "last":"Last Name",
+    "email":"Email Address",
+    "already":"Already have an account?",
+    "submit":"Submit",
+    "cancel":"Cancel",
+    "logout":"Logout"
+
+}

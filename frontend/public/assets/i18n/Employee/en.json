@@ -1,0 +1,10 @@
+{
+    "add":"Add Employee",
+    "name":"Name",
+    "email":"Email",
+   "passowrd":"Password",
+   "select":"Select Role",
+   "addd":"Add Dean",
+   "adds":"Add Staff",
+   "no":"No Employee"
+}

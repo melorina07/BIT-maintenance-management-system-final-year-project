@@ -1,0 +1,9 @@
+{
+    "general":"General maintenance",
+    "generaldesc":"For water line maintenance, electrical maintenance and repair of furniture works",
+    "fill":"Fill this form",
+    "ict":"ICT maintenance",
+    "ictdesc":"For computer maintenance, Netwok installetion, cofiguration,etc...",
+    "name":"Name",
+    "role":"Role"
+}

@@ -1,0 +1,67 @@
+body{
+   background-color:#f5f1f1; 
+}
+
+.table-container {
+    display: flex;
+    justify-content: center;
+    align-items: cente;
+      height: 100vh;
+  }
+  
+  .table {
+    width: 0%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    border-radius: 10%;
+    padding-top: 500px; /* add padding to move table down */
+      
+  }
+ 
+  table tr {
+    counter-increment: row-number;
+    height: 50px; /* adjust row height */
+  }
+  .table th,
+  .table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-size: 0.8em;
+}
+    
+  .table th {
+    background-color: #47B8F5;
+    
+    
+    color: #333;
+  }
+  .table-hover tbody tr:hover {
+    background-color: #e2dfdf;
+  }
+  
+  .table-hover tbody td:hover {
+    cursor: pointer;
+  }
+  
+
+  nav {
+    background-color: rgb(255, 254, 254); /* set background color */
+    overflow: hidden; /* hide overflow */
+  }
+  
+  nav a {
+    margin-right: 10px;
+      border-radius: 15px;
+    font-size: 0.9em;
+    float: left; /* float links to the left */
+    color: #000; /* set link color */
+    text-align: center; /* center link text */
+    padding: 5px 10px; /* add padding */
+    text-decoration: none; /* remove underline */
+  }
+  
+  nav a:hover {
+    background-color: #ddd; /* add background color on hover */
+    color: #333; /* change link color on hover */
+  }

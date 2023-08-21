@@ -1,0 +1,43 @@
+
+
+
+/* form {
+  padding-left: 30px;
+    display: inline-block;
+    width: 700 px;
+    flex: 1;
+    text-align: left;
+    margin-left: 500px;
+    background-color: rgb(140, 188, 207);
+    padding: 20px;
+    border-radius:3%;
+    margin-top: 20px;
+    margin-bottom: 80px;
+  } */
+  
+  label {
+    display: inline-block;
+    width: 150px;
+    margin-bottom: 10px;
+  }
+  
+  /* input[type="text"] {
+    width: 350px;
+    padding: 5px;
+  
+    margin-bottom: 10px;
+  } */
+  
+ button {
+   padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: black;
+    padding: 10px 20px;
+    border: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }

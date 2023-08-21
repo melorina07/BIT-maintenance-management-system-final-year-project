@@ -1,0 +1,23 @@
+{
+    "welcome":" እንኳን ወደ ባህርዳር ዩኒቨርሲቲ የጥገና መጠየቂያ ስርዓት በደህና መጡ ",
+    "login":"ወደ መለያዎ ይግቡ",
+    "username":"የተጠቃሚ ስም",
+    "password":"የይለፍ ቃል",
+    "new_password": "አዲስ የይለፍ ቃል",
+    "change_your_password": "የይለፍ ቃል ይለውጡ",
+    "remember":"አስታውሰኝ ",
+    "change": "ለውጥ",
+    "forgot":"የይለፍ ቃሎን ረሱት?",
+    "log":"ይግቡ",
+    "noaccount":"መለያ የሎትም?",
+    "register":"ይመዝገቡ",
+    "first":"የመጀመሪያ ስም",
+    "last":"የአባት ስም",
+    "email":"የኢሜል አድራሻ",
+    "already":"መለያ አሎት?",
+    "submit":"አስገባ",
+    "cancel":"ይውጡ",
+    "logout":"ውጣ"
+    
+    
+}

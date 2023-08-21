@@ -1,0 +1,18 @@
+{
+    "action":"Actions",
+    "delete":"Delete",
+    "response":"Response",
+    "edit":"Edit",
+    "accept":"Accept",
+    "reject":"Reject",
+    "assign":"Assign",
+    "maintener":"Maintener",
+    "add":"Add Request",
+    "report":"Report",
+    "update":"Update Request",
+    "up":"Update",
+    "detail":"Request Detail",
+    "status":"Status",
+    "no":"No Requests",
+    "addr":"Add Response"
+}
